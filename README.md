@@ -6,6 +6,7 @@ This is the raffle project that winners can receive the raffle NFT, spl-tokens o
 - Install `ts-node` as global command
 - Confirm the solana wallet preparation: `/home/fury/.config/solana/id.json` in test case
 
+
 ## Usage
 - Main script source for all functionality is here: `/cli/script.ts`
 - Program account types are declared here: `/cli/types.ts`
