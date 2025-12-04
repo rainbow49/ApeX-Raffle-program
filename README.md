@@ -17,7 +17,6 @@ Able to test the script functions working in this way.
 - Confirm the `ANCHOR_WALLET` environment variable of the `ts-node` script in `package.json`
 - Run `yarn ts-node`
 
-
 ## Features
 
 ### - As a Smart Contract Owner
