@@ -22,7 +22,6 @@ Able to test the script functions working in this way.
 For the first time use, the Smart Contract Owner should `initialize` the Smart Contract for global account allocation.
 - `initProject`
 
-
 ### - As the Creator of Raffle
 The NFTs will be stored in the globalAuthority address.
 When the admin creates a raffle, call the `creatRaffle` function, the NFT will be sent to the PDA and the data of this raffle is stored on blockchain.
